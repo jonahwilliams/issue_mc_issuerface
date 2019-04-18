@@ -1,0 +1,6 @@
+name: issue_mc_issueface
+author: Jonah Williams
+
+dependencies:
+  args: ^1.5.1
+  path: ^1.6.2
